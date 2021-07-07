@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18670784746",
+    "project_id": "cs5520-adeb8",
+    "storage_bucket": "cs5520-adeb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18670784746:android:4dc9be1ccb1f17b8224793",
+        "android_client_info": {
+          "package_name": "edu.neu.cs5520.Week8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18670784746-jp9tcfih5k1emt0r2hm0in8c4jqqe5m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOVCS1YS1Wu7W2Tx3bsQg10RGwFdGbdcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18670784746-jp9tcfih5k1emt0r2hm0in8c4jqqe5m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
