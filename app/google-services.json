@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56526361289",
+    "project_id": "week7-stickittothem",
+    "storage_bucket": "week7-stickittothem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56526361289:android:d63b8d1e7a088347afb318",
+        "android_client_info": {
+          "package_name": "edu.neu.cs5520.Week8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56526361289-e04i8fck8fcok7rjakhsrcv392g6mdsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPrYfLU8LzdFFfoIoZdwICgH7-8GRmq84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56526361289-e04i8fck8fcok7rjakhsrcv392g6mdsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
