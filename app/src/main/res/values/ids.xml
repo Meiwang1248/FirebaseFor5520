@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textview_first" type="id">textview_first</item>
+    <item name="firstfragment_numbersent_textview" type="id">firstfragment_numbersent_textview
+    </item>
+    <item name="usernameToSendToTextInput" type="id">usernameToSendToTextInput</item>
+    <item name="laugh_button" type="id">laugh_button</item>
+    <item name="smile_button" type="id">smile_button</item>
+    <item name="button_first" type="id">button_first</item>
+    <item name="sad_button" type="id">sad_button</item>
+    <item name="firstfragment_layout" type="id">firstfragment_layout</item>
+</resources>
