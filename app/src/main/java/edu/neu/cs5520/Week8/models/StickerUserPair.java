@@ -1,6 +1,7 @@
 package edu.neu.cs5520.Week8.models;
 
 public class StickerUserPair {
+
     public String sentByUsername;
     public String stickerName;
 
@@ -13,3 +14,4 @@ public class StickerUserPair {
         this.stickerName = stickerName;
     }
 }
+

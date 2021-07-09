@@ -15,7 +15,7 @@ import androidx.core.app.NotificationCompat;
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
 
-public class StickerService extends FirebaseMessagingService{
+public class StickerMessagingService extends FirebaseMessagingService {
     private static final String TAG = StickerMessagingService.class.getSimpleName();
     private static final String CHANNEL_ID = "CHANNEL_ID";
     private static final String CHANNEL_NAME = "CHANNEL_NAME";

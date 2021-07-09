@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">A8</string>
+    <string name="app_name">NUMAD20Su-StickItToEm-JTHK</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="home">Home</string>
+
+    <string name="hello_first_fragment">Hello</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Strings used for Stick It To Em -->
+    <string name="register_dialog_title">Register Your Phone</string>
+    <string name="register_dialog_username">Username</string>
+    <string name="register">Register</string>
+    <string name="smile">🙂</string>
+    <string name="sad">🙁</string>
+    <string name="laugh">😀</string>
+    <string name="enter_username_to_send_to">Enter Username to Send to</string>
+    <string name="firstfragment_numbersent">Number of Stickers Sent:</string>
+    <string name="stickers_received">Stickers Received</string>
 </resources>
